@@ -1,2 +1,2 @@
 # CommonTransformations
-Commons transformations in Xquery and XSLT.
+Useful common transformations in Xquery and XSLT.
